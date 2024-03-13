@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+header{
+    background-image:linear-gradient(rgb(240, 8, 47),white);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: white;
+    text-shadow: 2px 2px 3px #00000073;
+    box-shadow: 2px 2px 3px black;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+article{
+    background-image: linear-gradient(rgb(37, 37, 206),white);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 1.7em;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+    padding: 10px;
+    margin: 20px;
+    border: 1px inset black;
+    box-shadow: 2px 2px  3px black;
+}
+input#cx{
+    width: 300px;
+    height: 20px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.664);
+    border: 2px outset rgba(0, 0, 0, 0.692);
+}
+input#m{
+    width: 80px;
+    height: 30px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.664);
+    font-weight: bolder;
+
+}
